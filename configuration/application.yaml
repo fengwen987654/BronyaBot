@@ -29,7 +29,7 @@ account:
   gongxueyun: #对工学云单用户无数据库服务新开账号密码登录
     off: true                                     #off: true or false 是否开启单用户加载，单用户加载开启时无法使用mysql数据
     phone: "18862530683"                          #phone: 手机号码
-    password: "853660538hC"                     #password: 密码
+    password: ""                     #password: 密码
     country: "中国"                              #country: 国家
     province: "江苏省"                           #province: 省份
     city: "苏州市"                               #city: 城市
